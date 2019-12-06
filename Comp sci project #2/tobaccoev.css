@@ -1,0 +1,50 @@
+.ul {
+		  list-style-type: none;
+		  margin: 10px;
+		  padding: 10px;
+		  padding: 10px;
+		  font-family:Retro;
+		  padding: 25px;
+		  font-size: 18px;
+		  border: #e38a36 solid 5px;
+	      color:#93a0b5;
+		  display:inline-grid;
+		  background-color:#e6d35c ;
+		 
+	}
+	
+.title3{
+	 border:#e38a36 solid 5px;
+	 font-size: 25px;
+	 color: black;
+	 font-size: 25px;
+	background-color:#e6d35c;
+	padding: 20px;
+	color:#000000;
+}
+
+body{
+	background-image:url('https://junkwize.com/wp-content/uploads/2014/08/Cigarette-butts1.jpg')
+}  
+   .grid-container {
+	font-size:20px;
+	border:#e38a36 solid 5px;
+	display:grid;
+	background-color:#e6d35c ;
+	display:gird;
+	grid-column-gap:50px;
+	grid-template-columns: auto auto auto;
+	padding:10px;
+}
+
+.grid-item{
+	background-color:#e0b34a;
+	border: 1px solid #000000;
+	padding:20px;
+	font-size:24px;
+	text-align: center;
+}
+
+a{
+	color: #e38a36;
+}
