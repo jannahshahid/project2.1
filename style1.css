@@ -1,0 +1,105 @@
+
+
+.grid {
+	 display:grid;
+     padding: 10px;
+     font-family:Retro;
+     padding: 25px;
+     font-size: 55px;
+     text-align: center;
+  
+}
+.grid2 {
+	display: grid;
+    padding: 10px;
+    font-family:Retro;
+    padding: 25px;
+    font-size: 55px;
+    text-align: center;
+	
+}
+.grid3 {
+	display: grid;
+    padding: 10px;
+    font-family:Retro;
+    padding: 25px;
+    font-size: 55px;
+    text-align: center;
+	
+}
+.grid4{
+	display: grid; 
+    padding: 10px;
+    font-family:Retro;
+    padding: 25px;
+    font-size: 55px;
+    text-align: center;
+	
+}
+
+.title {
+	padding: 20px;
+	color:#899ead;
+	font: stencil;
+}
+   .itemA{ border: #899ead solid 5px;
+
+	background-color:#d9d9d9;
+}
+	
+	
+	.itemB{ border: #899ead solid 5px;
+	
+	background-color: #d9d9d9 ;
+	}
+	
+	.itemC{ border: #899ead solid 5px;
+	
+    background-color: #d9d9d9 ;
+	
+	}
+	
+	.itemD{ border: #899ead solid 5px;
+	background-color:#d9d9d9;
+	
+	}
+	
+	.ul {
+		  list-style-type: none;
+		  margin: 10px;
+		  padding: 10px;
+		  padding: 10px;
+		  font-family:Retro;
+		  padding: 25px;
+		  font-size: 18px;
+		  border: #899ead solid 5px;
+	      color:#93a0b5;
+		  display:inline-grid;
+		  background-color: #d9d9d9 ;
+		 
+	}
+.Title1{
+	 border: #899ead solid 5px;
+	 font-size: 40px;
+	 color:#899ead;
+	 font-size: 60px;
+	background-color: #d9d9d9;
+	font: stencil;
+}
+
+img {
+  padding: 5px;
+  width: 400px;
+  padding:5px;
+  float: right;
+  height:700px;
+  border: #899ead solid 5px;
+}
+ 
+body{
+	background-image:url('https://ideasphere.com/wp-content/uploads/2016/08/Savin-NY-Website-Background-Web-1.jpg');
+
+} 
+a{
+	color: #899ead;
+}

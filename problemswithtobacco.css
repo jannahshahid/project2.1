@@ -1,0 +1,91 @@
+.ul {
+		  list-style-type: none;
+		  margin: 10px;
+		  padding: 10px;
+		  padding: 10px;
+		  font-family:Retro;
+		  padding: 25px;
+		  font-size: 18px;
+		  border: #666666 solid 5px;
+	      color:#93a0b5;
+		  display:inline-grid;
+		  background-color:#b3b3b3 ;
+		 
+	}
+	
+body{
+	background-image:url('http://www.raiznerlaw.com/wp-content/uploads/2016/09/bigstock-Black-smoke-cloud-series-26409170.jpg');
+    
+}
+
+
+.title2{
+	 border: #666666 solid 5px;
+	 font-size: 25px;
+	 color: black;
+	 font-size: 25px;
+	background-color:#b3b3b3;
+	padding: 20px;
+	color:#000000;
+}
+
+.subtitle{
+	border:#666666 solid 5px;
+	font-size:18px;
+	color:black;
+	background-color:#b3b3b3;
+	padding:20px;
+	color:#000000
+}
+
+img1 {
+  padding: 5px;
+  width: 300px;
+  padding:5px;
+  height:160px;
+  border:#666666  solid 5px;
+  float:right;
+}
+
+img2 {
+  padding: 5px;
+  width: 300px;
+  padding:5px;
+  height:160px;
+  border:#666666  solid 5px;
+  float:left;
+}
+
+.boxes{
+	font-size:20px;
+	border:#666666 solid 5px;
+	display:grid;
+	background-color:#b3b3b3 ;
+}
+
+.style{
+	color: hotpink;
+}
+
+   .boxes {
+	font-size:20px;
+	border:#666666 solid 5px;
+	display:grid;
+	background-color:#c2c2c2 ;
+	display:gird;
+	grid-column-gap:50px;
+	grid-template-columns: auto auto auto;
+	padding:10px;
+}
+
+.box1{
+	background-color:#c2c2c2;
+	border: 1px solid #000000;
+	padding:20px;
+	font-size:24px;
+	text-align: center;
+}
+
+a{
+	color: grey;
+}
